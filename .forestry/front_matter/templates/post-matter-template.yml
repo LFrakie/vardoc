@@ -11,6 +11,8 @@ fields:
 - type: text
   name: author
   label: author
+  default: varbot
+  hidden: true
 - type: text
   name: sur
   label: sur
