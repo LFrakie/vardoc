@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rose Post
+title: Var Doc Post
 author: franz
 sur: http://www.google.com
 categories: 
