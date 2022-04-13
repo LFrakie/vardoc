@@ -4,9 +4,9 @@ ingresar a las rutas, eso lo solucionamos con en _config.yml cambiando la base U
 (no modifiquemos URL: porque tmbn nos generó problemas de ruptura de enlaces) 
 pueda que dejar la base url en "" (sin ruta) nos ayude con un dominio propio, pero con el subdominio de ghp se rompe.
 
-#baseurl: '/mundana-theme-jekyll'
+#baseurl: '/vardoc'
 
-baseurl: '/jekyll-mundana-deploy'
+baseurl: '/vardoc'
 
 -----
 
