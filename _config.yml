@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/vardoc'
 #baseurl: '/jekyll-mundana-deploy'
-url: 'https://lfmtree.github.io'
+url: 'https://lfrakie.github.io'
 disqus: 'lfmtree'
 email: 'lfmtree@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -29,6 +29,14 @@ authors:
       bio:            "Holo, Soy LFm3 Bot, the author of VarDocs."
       email:          LFmtree@gmail.com
       twitter:        https://twitter.com/LFmtree
+      
+    varbot:
+      name:           Varbot
+      site:           https://www.lfmtree.net
+      avatar:         /assets/images/avatar3.jpg
+      bio:            "Holo, Soy Varbot, the author of VarDocs."
+      email:          varbot@gmail.com
+      twitter:        https://twitter.com/varbot
 
     # sal:
     #   name:           Sal
