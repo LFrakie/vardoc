@@ -1,9 +1,9 @@
 # Site
-name: 'Vardocs'
+name: 'VarDocs'
 description: 'Test dev web'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/vardocs'
+baseurl: '/vardoc'
 #baseurl: '/jekyll-mundana-deploy'
 url: 'https://lfmtree.github.io'
 disqus: 'lfmtree'
