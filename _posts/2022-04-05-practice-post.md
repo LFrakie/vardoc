@@ -9,13 +9,20 @@ tags: []
 ---
 Practice post
 
-url:
+site url:
 {{site.url}}
 
-abs.url:
+page url:
 {{page.url}}
 
+site baseurl:
+{{site.baseurl}}
 
-{{site.baseurl}}/{{page.title}}/index.html
+page title:
+{{page.title}}
 
-<a href="{{site.baseurl}}{{page.url}}/index.html" download="ff.odt.html">Download Text</a>
+replace - page url name:
+{{page.title | replace: " ", "-"}}
+
+
+<a href="{{site.baseurl}}{{page.url}}/index.html" download="{{page.title | replace: " ", "-"}}.odt.html">Download Text</a>
