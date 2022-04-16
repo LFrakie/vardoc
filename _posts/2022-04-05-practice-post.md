@@ -5,6 +5,7 @@ author: Lfrakie
 categories: [ News ]
 image: "/uploads/prtscr-capture_79.jpg"
 tags: []
+gg: /:title/
 
 ---
 Practice post
@@ -24,5 +25,8 @@ page title:
 replace - page url name:
 {{page.title | replace: " ", "-"}}
 
+
+GG test:
+{{page.gg}}
 
 <a href="{{site.baseurl}}{{page.url}}/index.html" download="{{page.title | replace: " ", "-"}}.odt.html">Download Text</a>
