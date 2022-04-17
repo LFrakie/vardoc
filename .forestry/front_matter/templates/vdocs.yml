@@ -14,18 +14,6 @@ fields:
 - type: text
   name: sur
   label: sur
-- name: categoria
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: documents
-      section: jekyll-posts
-      file: _posts/2022-04-13-vardoc.md
-      path: categories
-  label: Categoria
 - type: text
   name: layout
   label: layout
@@ -35,7 +23,7 @@ fields:
   config:
     use_select: true
     source:
-      type: documents
+      type: simple
       section: jekyll-posts
       file: _posts/2022-04-13-vardoc.md
       path: categories
