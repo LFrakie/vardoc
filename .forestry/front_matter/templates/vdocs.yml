@@ -1,0 +1,25 @@
+---
+label: Vdocs
+hide_body: true
+fields:
+- type: text
+  name: author
+  label: author
+- type: text
+  name: title
+  label: title
+- type: text
+  name: sur
+  label: sur
+- type: file
+  name: vdfi
+  label: vdfi
+- type: text
+  name: layout
+  label: layout
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
