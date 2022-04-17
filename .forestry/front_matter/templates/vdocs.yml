@@ -27,6 +27,11 @@ fields:
       section: jekyll-posts
       file: _posts/2022-04-13-vardoc.md
       path: categories
+    options:
+    - Aritmetics
+    - ISO
+    - Arq
+    - Mate
 - type: list
   name: tags
   label: tags
