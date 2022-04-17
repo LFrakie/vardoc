@@ -11,7 +11,7 @@ fields:
   name: vdfi
   label: Archivo
   config:
-    maxSize: 0
+    maxSize: 
 - type: text
   name: sur
   label: Enlace
