@@ -8,12 +8,24 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: sur
-  label: sur
 - type: file
   name: vdfi
   label: vdfi
+- type: text
+  name: sur
+  label: sur
+- name: categoria
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: jekyll-posts
+      file: 
+      path: 
+  label: Categoria
 - type: text
   name: layout
   label: layout
