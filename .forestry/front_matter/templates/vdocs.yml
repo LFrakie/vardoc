@@ -21,10 +21,10 @@ fields:
     required: false
     options: []
     source:
-      type: pages
+      type: documents
       section: jekyll-posts
-      file: 
-      path: 
+      file: _posts/2022-04-13-vardoc.md
+      path: categories
   label: Categoria
 - type: text
   name: layout
