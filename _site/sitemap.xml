@@ -105,6 +105,14 @@
 <lastmod>2022-04-13T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/vardoc/test-pdf-pub/</loc>
+<lastmod>2022-04-16T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/vardoc/test-if-url-doc/</loc>
+<lastmod>2022-04-17T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/vardoc/404/</loc>
 </url>
 <url>
@@ -162,5 +170,9 @@
 <url>
 <loc>http://0.0.0.0:4000/vardoc/admin/</loc>
 <lastmod>2022-04-12T03:14:30-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/vardoc/uploads/rudilla-desarrollo-de-un-gps-inercial-con-raspberry-pi.pdf</loc>
+<lastmod>2022-04-16T15:35:36-05:00</lastmod>
 </url>
 </urlset>

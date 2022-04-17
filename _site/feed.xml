@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://0.0.0.0:4000/vardoc/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/vardoc/" rel="alternate" type="text/html" /><updated>2022-04-15T08:46:17-05:00</updated><id>http://0.0.0.0:4000/vardoc/feed.xml</id><title type="html">VarDocs</title><subtitle>Test dev web</subtitle><entry><title type="html">VarDoc Post</title><link href="http://0.0.0.0:4000/vardoc/vardoc/" rel="alternate" type="text/html" title="VarDoc Post" /><published>2022-04-13T00:00:00-05:00</published><updated>2022-04-13T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vardoc/vardoc</id><content type="html" xml:base="http://0.0.0.0:4000/vardoc/vardoc/"></content><author><name>varbot</name></author><category term="Rose" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/vardoc/uploads/huawei-mate-x2-wallpaper-img-5-jpg-1280x1280-google-chrome.jpg" /></entry><entry><title type="html">Other Spyder post</title><link href="http://0.0.0.0:4000/vardoc/other-post/" rel="alternate" type="text/html" title="Other Spyder post " /><published>2022-04-05T00:00:00-05:00</published><updated>2022-04-05T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vardoc/other-post</id><content type="html" xml:base="http://0.0.0.0:4000/vardoc/other-post/">&lt;h2 id=&quot;spyder-post&quot;&gt;Spyder Post&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://0.0.0.0:4000/vardoc/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/vardoc/" rel="alternate" type="text/html" /><updated>2022-04-17T02:08:42-05:00</updated><id>http://0.0.0.0:4000/vardoc/feed.xml</id><title type="html">VarDocs</title><subtitle>Test dev web</subtitle><entry><title type="html">Test if url or doc</title><link href="http://0.0.0.0:4000/vardoc/test-if-url-doc/" rel="alternate" type="text/html" title="Test if url or doc" /><published>2022-04-17T00:00:00-05:00</published><updated>2022-04-17T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vardoc/test-if-url-doc</id><content type="html" xml:base="http://0.0.0.0:4000/vardoc/test-if-url-doc/"></content><author><name>varbot</name></author><summary type="html"></summary></entry><entry><title type="html">Test pdf pub</title><link href="http://0.0.0.0:4000/vardoc/test-pdf-pub/" rel="alternate" type="text/html" title="Test pdf pub" /><published>2022-04-16T00:00:00-05:00</published><updated>2022-04-16T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vardoc/test-pdf-pub</id><content type="html" xml:base="http://0.0.0.0:4000/vardoc/test-pdf-pub/"></content><author><name>varbot</name></author><summary type="html"></summary></entry><entry><title type="html">VarDoc Post</title><link href="http://0.0.0.0:4000/vardoc/vardoc/" rel="alternate" type="text/html" title="VarDoc Post" /><published>2022-04-13T00:00:00-05:00</published><updated>2022-04-13T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vardoc/vardoc</id><content type="html" xml:base="http://0.0.0.0:4000/vardoc/vardoc/"></content><author><name>varbot</name></author><category term="Rose" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/vardoc/uploads/huawei-mate-x2-wallpaper-img-5-jpg-1280x1280-google-chrome.jpg" /></entry><entry><title type="html">Other Spyder post</title><link href="http://0.0.0.0:4000/vardoc/other-post/" rel="alternate" type="text/html" title="Other Spyder post " /><published>2022-04-05T00:00:00-05:00</published><updated>2022-04-05T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vardoc/other-post</id><content type="html" xml:base="http://0.0.0.0:4000/vardoc/other-post/">&lt;h2 id=&quot;spyder-post&quot;&gt;Spyder Post&lt;/h2&gt;
 
 &lt;p&gt;Otro nuevo post gg bueno ahora no se&lt;/p&gt;</content><author><name></name></author><category term="spyder" /><summary type="html">Spyder Post</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/vardoc/uploads/thumbnail.jpg" /></entry><entry><title type="html">Practice Post</title><link href="http://0.0.0.0:4000/vardoc/practice-post/" rel="alternate" type="text/html" title="Practice Post" /><published>2022-04-05T00:00:00-05:00</published><updated>2022-04-05T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vardoc/practice-post</id><content type="html" xml:base="http://0.0.0.0:4000/vardoc/practice-post/">&lt;p&gt;Practice post&lt;/p&gt;
 
@@ -17,8 +17,8 @@ Practice Post&lt;/p&gt;
 &lt;p&gt;replace - page url name:
 Practice-Post&lt;/p&gt;
 
-&lt;p&gt;GG test:
-/:title/&lt;/p&gt;
+&lt;p&gt;base URL:
+/vardoc&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/vardoc/practice-post//index.html&quot; download=&quot;Practice-Post.odt.html&quot;&gt;Download Text&lt;/a&gt;&lt;/p&gt;</content><author><name>Lfrakie</name></author><summary type="html">Practice post</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/vardoc/uploads/prtscr-capture_79.jpg" /></entry><entry><title type="html">Rose Post</title><link href="http://0.0.0.0:4000/vardoc/rose-post/" rel="alternate" type="text/html" title="Rose Post" /><published>2022-04-05T00:00:00-05:00</published><updated>2022-04-05T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vardoc/rose-post</id><content type="html" xml:base="http://0.0.0.0:4000/vardoc/rose-post/">&lt;h1 id=&quot;rose-post&quot;&gt;Rose Post&lt;/h1&gt;
 
@@ -34,53 +34,4 @@ Practice-Post&lt;/p&gt;
 
 &lt;p&gt;/vardoc/ff/index.html&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/vardoc/ff/index.html&quot; download=&quot;ff.odt.html&quot;&gt;Download Text&lt;/a&gt;&lt;/p&gt;</content><author><name>FFF</name></author><category term="meta tags" /><summary type="html">Este es texto de pruebas</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/vardoc/assets/images/ng.jpg" /></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://0.0.0.0:4000/vardoc/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-02-04T00:00:00-05:00</published><updated>2019-02-04T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vardoc/welcome-to-jekyll</id><content type="html" xml:base="http://0.0.0.0:4000/vardoc/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>franz</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/vardoc/assets/images/demo1.jpg" /></entry><entry><title type="html">Powerful things you can do with the Markdown editor</title><link href="http://0.0.0.0:4000/vardoc/powerful-things-markdown-editor/" rel="alternate" type="text/html" title="Powerful things you can do with the Markdown editor" /><published>2019-02-03T00:00:00-05:00</published><updated>2019-02-03T00:00:00-05:00</updated><id>http://0.0.0.0:4000/vardoc/powerful-things-markdown-editor</id><content type="html" xml:base="http://0.0.0.0:4000/vardoc/powerful-things-markdown-editor/">&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/vardoc/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>jane</name></author><category term="summer" /><summary type="html">There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" /></entry></feed>
+&lt;p&gt;&lt;a href=&quot;/vardoc/ff/index.html&quot; download=&quot;ff.odt.html&quot;&gt;Download Text&lt;/a&gt;&lt;/p&gt;</content><author><name>FFF</name></author><category term="meta tags" /><summary type="html">Este es texto de pruebas</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://0.0.0.0:4000/vardoc/assets/images/ng.jpg" /></entry></feed>
