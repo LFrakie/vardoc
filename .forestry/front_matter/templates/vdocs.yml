@@ -44,3 +44,8 @@ fields:
   name: tags
   label: tags
   hidden: true
+- name: template
+  type: include
+  config: {}
+  template: vdocs
+  label: template
