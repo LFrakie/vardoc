@@ -31,4 +31,4 @@ base URL:
 
 
 
-<a href="{{site.baseurl}}{{page.url}}index.html" download="{{page.title | replace: " ", "-"}}.odt.html">Download Text</a>
+<a href="{{site.baseurl}}{{page.url}}/index.html" download="{{page.title | replace: " ", "-"}}.odt.html">Download Text</a>
