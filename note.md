@@ -1,3 +1,7 @@
+## Conclusion de proyecto
+Este proyecto funciona muy bien excepto con los dominios de github y netlify en esta ultima funciona bien, pero en
+gh se rompe al quitar base url, por ello quitamos varios shortcuts de la site.baseurl de las rutas en el proyecto.
+
 ## Ruta absoluta
 Tuvimos problemas con la ruta abusoluta y eso rompia la pagina sin mostrar las paginas, estilos, imagenes y problemas para poder
 ingresar a las rutas, eso lo solucionamos con en _config.yml cambiando la base URL que no coincidia con el de github pages.
